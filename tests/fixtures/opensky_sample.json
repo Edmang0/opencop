@@ -1,0 +1,8 @@
+{
+  "time": 1763460000,
+  "states": [
+    ["a1b2c3", "UAL123  ", "United States", 1763459998, 1763459999, -73.7781, 40.6413, 1066.8, false, 108.2, 44.5, 5.2, null, 1100.0, "1200", false, 0],
+    ["abc999", "DAL45   ", "United States", null, 1763459990, -73.8740, 40.7769, null, true, 6.1, 270.0, 0.0, null, null, "7700", false, 0],
+    ["deadbe", "", "Canada", 1763459995, 1763459995, null, null, 9000.0, false, 230.0, 90.0, 0.0, null, 9100.0, null, false, 0]
+  ]
+}

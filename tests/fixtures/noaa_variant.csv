@@ -1,0 +1,3 @@
+mmsi,base_date_time,longitude,latitude,sog,cog,heading,vessel_name,vessel_type
+367000001,2025-06-01 00:00:00,-74.0450,40.6005,12.1,180.5,181,EVER GIVEN TOO,70
+367000002,2025-06-01 00:00:30,-74.0200,40.6800,0.0,360.0,511,HARBOR TUG,52

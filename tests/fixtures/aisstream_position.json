@@ -1,0 +1,4 @@
+{"MessageType": "PositionReport",
+ "MetaData": {"MMSI": 367000001, "ShipName": "EVER GIVEN TOO      ", "Latitude": 40.6005, "Longitude": -74.045},
+ "Message": {"PositionReport": {"MessageID": 1, "UserID": 367000001, "Sog": 12.1, "Cog": 180.5,
+   "TrueHeading": 181, "Latitude": 40.6005, "Longitude": -74.045, "Valid": true, "NavigationalStatus": 0}}}

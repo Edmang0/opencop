@@ -1,0 +1,15 @@
+{
+  "ac": [
+    {"hex": "a1b2c3", "type": "adsb_icao", "flight": "UAL123  ", "r": "N12345", "t": "B738",
+     "alt_baro": 3500, "gs": 210.4, "track": 44.5, "squawk": "1200", "lat": 40.6413, "lon": -73.7781,
+     "seen_pos": 1.5, "messages": 1200, "mlat": [], "rssi": -20.1, "seen": 0.4, "tisb": []},
+    {"hex": "abc999", "type": "adsb_icao", "flight": "DAL45", "alt_baro": "ground", "gs": 12.0,
+     "track": 270.0, "squawk": "7700", "lat": 40.7769, "lon": -73.8740, "seen_pos": 0.2,
+     "messages": 80, "mlat": [], "rssi": -12.0, "seen": 0.1, "tisb": []},
+    {"hex": "~2d0f11", "type": "tisb_other", "alt_baro": 1200, "lat": 40.70, "lon": -74.01,
+     "seen_pos": 3.0, "messages": 5, "mlat": [], "rssi": -30.0, "seen": 2.0, "tisb": []},
+    {"hex": "c0ffee", "type": "adsb_icao", "flight": "JBU7", "alt_baro": 12000,
+     "messages": 10, "mlat": [], "rssi": -25.0, "seen": 9.0, "tisb": []}
+  ],
+  "total": 4, "now": 1763460000000, "ctime": 1763460000000, "ptime": 3, "msg": "No error"
+}
